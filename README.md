@@ -1,3 +1,3 @@
-# Lab-Management-JAVA
+# Lab-CRUD-Basic
 
 FA21-BCS-109
